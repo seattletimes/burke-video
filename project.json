@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "hairy-terminus"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2019/arts/burke-video"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "image": "assets/social.jpg",
+  "sheets": [],
+  "standout": false,
+  "embedded": true,
+  "production": true
+}
